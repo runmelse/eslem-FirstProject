@@ -1,0 +1,28 @@
+package colour;
+
+public class red {
+
+	public static void main(String[] args) {
+		
+		
+		String name="Eslem";
+		String b="";
+		int count=name.length();
+		while(count<name.length()) {
+			count--;
+	System.out.println(name.charAt(0)+"-");
+	System.out.println(name.charAt(1)+"-");
+	System.out.println(name.charAt(2)+"-");
+	System.out.println(name.charAt(3)+"-");
+	System.out.println(name.charAt(4)+"-");
+		}
+				
+		
+		
+		
+		
+		
+
+	}
+
+}

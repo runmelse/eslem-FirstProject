@@ -1,0 +1,19 @@
+package season;
+
+import java.util.Scanner;
+
+public class task {
+	public static void main(String[] args) {
+		   
+	 int y=50;
+		
+		while(y<101) 
+		System.out.print(y+",");
+		y+=2;   
+		
+		
+		
+		
+	  
+		}
+}
